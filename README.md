@@ -2,24 +2,41 @@
 PROVA FEITA EM SALA DIA 20/04/23
 
 
-AvaliAaão ndamentos da ProgramaÃ§Ã£o 2
+Avaliação fundamentos da Programação 2
 
-Nome:												data:
+Nome: Kesia Rocha Araújo									data: 20/04/23
 
-1) Sobre funÃ§Ãµes em JavaScript serem cidadÃ£s de primeira classe, marque V ou F:
+1) Sobre funções em JavaScript serem cidadãs de primeira classe, marque V ou F:
 
-(  ) funÃ§Ãµes nÃ£o podem ser atribuÃdas a variÃ¡veis. 
-(  ) funÃ§Ãµes nÃ£o podem ser passadas como argumentos para outras funÃ§Ãµes.
-(  ) funÃ§Ãµes nÃ£o podem ser retornadas como valores de outras funÃ§Ãµes.
-(  ) Uma funÃ§Ã£o nÃ£o pode ser definida dentro de outra funÃ§Ã£o em JavaScript. 
-(  ) FunÃ§Ãµes podem nÃ£o ser armazenadas em objetos em JavaScript.
-(  ) FunÃ§Ãµes em JavaScript nÃ£o podem ser anÃ´nimas. 
-(  ) NÃ£o Ã© possÃvel criar uma funÃ§ao recusrsiva em Javascript.
+( F ) funções não podem ser atribuías a variáveis. 
+( F ) funções não podem ser passadas como argumentos para outras funções.
+( F ) funções não podem ser retornadas como valores de outras funções.
+( F ) Uma função não pode ser definida dentro de outra função em JavaScript. 
+( F ) funções podem não ser armazenadas em objetos em JavaScript.
+( F ) funções em JavaScript não podem ser anônimas. 
+( F ) Não é possÃvel criar uma função recusrsiva em Javascript.
 
-2) Para cada item acima que vocÃª marcou falso, elabore um programa em Javascript que demonstre sua decisÃ£o:
+2) Para cada item acima que você marcou falso, elabore um programa em Javascript que demonstre sua decisão:
 
-a) Crie uma variÃ¡vel e atribua a ela uma funÃ§Ã£o em JavaScript.
-b) Crie uma funÃ§Ã£o que recebe outra funÃ§Ã£o como argumento e chame essa funÃ§Ã£o dentro da funÃ§Ã£o principal.
+a) Crie uma variável e atribua a ela uma função em JavaScript.
+
+let números = 12345
+function contar(){
+    return "Números de 1 a 5"
+}
+//Crie uma variável e atribua a ela uma função em JavaScript. A função contar foi atribuída á variável números.
+
+
+
+b) Crie uma função que recebe outra função como argumento e chame essa função dentro da função principal.
+
+
+
+
+
+
+
+
 c) Crie uma funÃ§Ã£o que retorna outra funÃ§Ã£o e armazene o resultado em uma variÃ¡vel. Em seguida, chame a funÃ§Ã£o retornada.
 d) Defina uma funÃ§Ã£o dentro de outra funÃ§Ã£o e verifique se o cÃ³digo Ã© executado corretamente.
 e) Crie um objeto em JavaScript que contenha uma funÃ§Ã£o como propriedade.
